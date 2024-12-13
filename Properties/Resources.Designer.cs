@@ -63,6 +63,26 @@ namespace church_management_system.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1000_F_566322234_dSK1t1yBKcBP3TWJOD4qTDKVnDjkjJo4 {
+            get {
+                object obj = ResourceManager.GetObject("1000_F_566322234_dSK1t1yBKcBP3TWJOD4qTDKVnDjkjJo4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap png_clipart_x_mark_x_button_wrong_close_button_icon {
             get {
                 object obj = ResourceManager.GetObject("png-clipart-x-mark-x-button-wrong-close-button-icon", resourceCulture);
