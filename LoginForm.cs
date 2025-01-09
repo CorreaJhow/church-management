@@ -53,10 +53,10 @@ namespace church_management_system
 
         private void LoginForm_Load(object sender, EventArgs e)
         {
-            txtUser.Text = "User...";
+            txtUser.Text = "User";
             txtUser.ForeColor = Color.Gray;
 
-            txtPassword.Text = "Password...";
+            txtPassword.Text = "Password";
             txtPassword.ForeColor = Color.Gray;
             txtPassword.PasswordChar = '\0'; // Disables password character initially
         }

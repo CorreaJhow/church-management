@@ -73,9 +73,29 @@ namespace church_management_system.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _15bc3673f02e823b1e68ca6381116f38 {
+            get {
+                object obj = ResourceManager.GetObject("15bc3673f02e823b1e68ca6381116f38", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap images {
             get {
                 object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap multidão {
+            get {
+                object obj = ResourceManager.GetObject("multidão", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
