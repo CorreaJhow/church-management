@@ -75,10 +75,6 @@ namespace church_management_system
             }
 
             MessageBox.Show("Login realizado com sucesso!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            // Aqui você pode redirecionar para outra janela, por exemplo:
-            // this.Hide();
-            // new MainForm().ShowDialog();
-            // this.Close();
         }
 
         private bool ValidaUsuario()
